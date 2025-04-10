@@ -30,12 +30,7 @@ Mi chiamo Erika Pitzalis e sono una studentessa appassionata di Ingegneria dell�
 2. Esplora la struttura del progetto:
 
 
----
-
-### 🌟 2. Con questa versione corretta:
-
 ```markdown
-```plaintext
 AuroraBot_Portfolio/
 ├── aurora_ascolto.py            # Riconoscimento vocale da file .wav
 ├── aurora_mission01.py          # Simulazione batteria con interfaccia grafica
